@@ -5,8 +5,8 @@
   <targetVersion>0.17.0</targetVersion>
   <url>https://www.reddit.com/r/RimWorld/comments/6bg6hc/typical_tuesday_suggestion_thread_may_16_2017/dhnn89d/</url>
   <description>
-
     This mod adds a new plant called "Tangleweed vine" which is very difficult to walk through.  It takes longer to grow than food crops, but not quite as long as trees.
+    Raiders will now prioritize burning the vines if there are no enemies around for them to attack.
 
     The idea is to use it defensively, to either:
 
@@ -15,6 +15,10 @@
     + Plant it so that it creates a maze for your enemies to approach your colony through.
 
     Feedback is welcome!!
+
+    ======
+    Source
+    https://github.com/bkjohnson/TangleweedMod
 
   </description>
 </ModMetaData>
