@@ -15,6 +15,9 @@
 		</graphicData>
 		<selectable>true</selectable>
 		<pathCost>50</pathCost>
+		<ingestible>
+			<preferability>NeverForNutrition</preferability>
+		</ingestible>
 		<plant>
 			<fertilitySensitivity>0.5</fertilitySensitivity>
 			<dieIfLeafless>true</dieIfLeafless>
